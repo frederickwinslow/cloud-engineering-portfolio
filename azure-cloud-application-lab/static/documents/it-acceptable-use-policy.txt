@@ -1,0 +1,16 @@
+IT ACCEPTABLE USE POLICY (SAMPLE)
+
+Purpose
+This sample describes basic responsible-use expectations for a demonstration portal. Follow your organization's current security policies.
+
+Protect access
+Use approved accounts and multifactor authentication. Never share passwords or approve sign-in requests you did not initiate.
+
+Handle information carefully
+Store work data only in approved services. Check recipients before sharing files and report suspected phishing or account compromise promptly.
+
+Use of devices
+Keep software updated and use organization-approved devices and applications for company work.
+
+Review note
+Replace this sample with the current, approved IT policy before using the portal for business.
